@@ -8,7 +8,7 @@ tags: [CS223, data structures, schedule]
 
 ## General
 
-- [Syllabus](/tPqPQb58SzichRzQQ9eV8A)
+- [Syllabus](CS223Syllabus.md)
 - [Discord CS Server](https://discord.gg/f38czZQ)
 - [Moodle course site](https://moodle.hanover.edu/course/view.php?id=1064)
 - [Calendly link for scheduling appointments](https://calendly.com/skiadas)

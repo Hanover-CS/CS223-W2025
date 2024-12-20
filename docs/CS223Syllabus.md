@@ -9,34 +9,34 @@ tags: [CS223, data structures, syllabus]
 ## General Info
 
 Course
-  ~ CS223 Data Structures
+: CS223 Data Structures
 
 Instructor
-  ~ Charilaos Skiadas (skiadas at hanover dot edu)
+: Charilaos Skiadas (skiadas at hanover dot edu)
 
 Term
-  ~ Winter 2023-2024
+: Winter 2023-2024
 
 Office
-  ~ LYN 108
+: LYN 108
 
 Student hours
-  ~ - In person: MW 3pm-4pm, T 2:15pm-4:00pm
-    - Tag me or message me in our Discord server
-    - Email me
-    - Schedule appointments via [Calendly](https://calendly.com/skiadas)
+: - In person: MW 3pm-4pm, T 2:15pm-4:00pm
+  - Tag me or message me in our Discord server
+  - Email me
+  - Schedule appointments via [Calendly](https://calendly.com/skiadas)
     
 Book
-  ~ *Starting out with C++, early objects*, 10th ed, by Gaddis, Walters and Muganda
+: *Starting out with C++, early objects*, 10th ed, by Gaddis, Walters and Muganda
 
 Websites
-  ~ - [HackMD for Notes and videos](https://hackmd.io/@skiadas/BJOkxaVd6)
-    - [Moodle for assignments](https://moodle.hanover.edu/course/view.php?id=1064)
+: - [HackMD for Notes and videos](https://hackmd.io/@skiadas/BJOkxaVd6)
+  - [Moodle for assignments](https://moodle.hanover.edu/course/view.php?id=1064)
 
 Class times
-  ~ - MWF 1:20pm-2:30am in LYN120A.
-    - Labs: Thu 12:20pm-2:05pm / 2:15pm-4:00pm. 
-        - Go to your session.
+: - MWF 1:20pm-2:30am in LYN120A.
+  - Labs: Thu 12:20pm-2:05pm / 2:15pm-4:00pm. 
+    - Go to your session.
     
 
 ## Course Description
