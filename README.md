@@ -1,7 +1,8 @@
 # CS223-W2025
 Site for Hanover-CS CS223 class for Winter 2025
 
-Site is live [here](https://hanover-cs.github.io/CS223-W2025/)
+<!-- Site is live [here](https://hanover-cs.github.io/CS223-W2025/) -->
+Site is live [here](https://hackmd.io/@lamarche/SJiPTv7r1l)
 
 ## Codespace setup
 
